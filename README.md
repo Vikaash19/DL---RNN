@@ -27,9 +27,9 @@ Predict on test data, plot actual vs. predicted prices.
 
 ## PROGRAM
 
-### Name:
+### Name: Vikaash K S
 
-### Register Number:
+### Register Number: 212223240179
 
 ```python
 import numpy as np
